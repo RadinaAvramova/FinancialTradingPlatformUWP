@@ -1,2 +1,1 @@
 # FinancialTradingPlatformUWP
-FinancialTradingPlatformUWP
